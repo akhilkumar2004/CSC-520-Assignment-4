@@ -1,0 +1,122 @@
+[
+    {
+        "ticket_id": 1,
+        "title": "Password reset issue",
+        "status": "open",
+        "priority": "medium",
+        "assigned_to": "Bob",
+        "description": "Customer unable to reset password due to expired reset token."
+    },
+    {
+        "ticket_id": 2,
+        "title": "Login issue with 2FA",
+        "status": "open",
+        "priority": "high",
+        "assigned_to": "Alice",
+        "description": "User unable to complete two-factor authentication after code submission."
+    },
+    {
+        "ticket_id": 3,
+        "title": "Error in billing calculation",
+        "status": "in_progress",
+        "priority": "high",
+        "assigned_to": "Charlie",
+        "description": "Monthly billing total shows incorrect values for several users."
+    },
+    {
+        "ticket_id": 4,
+        "title": "Feature request: Dark mode",
+        "status": "closed",
+        "priority": "low",
+        "assigned_to": "Charlie",
+        "description": "User requested dark mode support for the dashboard."
+    },
+    {
+        "ticket_id": 5,
+        "title": "Payment gateway timeout",
+        "status": "open",
+        "priority": "high",
+        "assigned_to": "Dana",
+        "description": "Payment service fails intermittently with a timeout error during checkout."
+    },
+    {
+        "ticket_id": 6,
+        "title": "UI alignment issue on mobile",
+        "status": "in_progress",
+        "priority": "low",
+        "assigned_to": "Dana",
+        "description": "Buttons in the mobile view overlap on smaller screens."
+    },
+    {
+        "ticket_id": 7,
+        "title": "Slow response from API endpoint",
+        "status": "open",
+        "priority": "medium",
+        "assigned_to": "Alice",
+        "description": "API endpoint /v1/data responds slowly under high load."
+    },
+    {
+        "ticket_id": 8,
+        "title": "Email notifications not received",
+        "status": "closed",
+        "priority": "high",
+        "assigned_to": "Bob",
+        "description": "Customers report not receiving email notifications for password changes."
+    },
+    {
+        "ticket_id": 9,
+        "title": "Broken image links on homepage",
+        "status": "open",
+        "priority": "low",
+        "assigned_to": "Charlie",
+        "description": "Several image links on the homepage return 404 errors."
+    },
+    {
+        "ticket_id": 10,
+        "title": "Database replication lag",
+        "status": "in_progress",
+        "priority": "high",
+        "assigned_to": "Eve",
+        "description": "Replication between primary and secondary databases is delayed by several minutes."
+    },
+    {
+        "ticket_id": 11,
+        "title": "Customer data export failure",
+        "status": "closed",
+        "priority": "medium",
+        "assigned_to": "Frank",
+        "description": "Export tool fails when generating CSV files for large datasets."
+    },
+    {
+        "ticket_id": 12,
+        "title": "Search function returning incomplete results",
+        "status": "open",
+        "priority": "medium",
+        "assigned_to": "Dana",
+        "description": "Search feature only returns partial matches, missing some valid results."
+    },
+    {
+        "ticket_id": 13,
+        "title": "Notification bell not updating count",
+        "status": "in_progress",
+        "priority": "low",
+        "assigned_to": "Charlie",
+        "description": "Notification icon count does not update after viewing new alerts."
+    },
+    {
+        "ticket_id": 14,
+        "title": "Error 500 on report generation",
+        "status": "open",
+        "priority": "high",
+        "assigned_to": "Bob",
+        "description": "Generating usage reports occasionally triggers a 500 internal server error."
+    },
+    {
+        "ticket_id": 15,
+        "title": "User session expiring too early",
+        "status": "closed",
+        "priority": "medium",
+        "assigned_to": "Alice",
+        "description": "Users are logged out after 5 minutes of inactivity instead of the expected 30 minutes."
+    }
+]
